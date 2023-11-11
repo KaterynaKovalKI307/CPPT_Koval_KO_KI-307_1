@@ -1,0 +1,27 @@
+Printed details
+Set name to Amazon
+Set area to 7000
+Set type to River
+Changed depth by 10 to 10
+Absorbed 50 of water
+Evaporated 20 of water
+Water body is now polluted
+Printed details
+Printed details
+Set name to Amazon
+Set area to 7000
+Set type to River
+Changed depth by 10 to 10
+Absorbed 50 of water
+Evaporated 20 of water
+Water body is now polluted
+Printed details
+Printed details
+Set name to Amazon
+Set area to 7000
+Set type to River
+Changed depth by 10 to 10
+Absorbed 50 of water
+Evaporated 20 of water
+Water body is now polluted
+Printed details
